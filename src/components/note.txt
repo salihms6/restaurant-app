@@ -1,0 +1,25 @@
+ajax
+....
+1 xmlHttp
+2 fetch
+3 async await
+
+
+hook-useEffect
+
+redirection in react
+-----------
+react-router-dom
+browserrouter,route,routes
+oro componentinentm path set cheyan-route
+more than one path in projrct-routes
+total project router path set with -browserrouter
+
+redirecting component
+--------
+link
+
+params in react
+--------
+
+useParams- hook used to access params in url
